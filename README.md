@@ -4,7 +4,7 @@
 
 🌼 I’m currently working on coding
 
-🌺 I’m currently learning Python and I want to learn the java programming language.
+🌺 I’m currently learning Python.
 
 ⭐ Fun fact: I love coding and my favorite programming language is Python.
 
