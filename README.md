@@ -1,4 +1,4 @@
-                   Hi 👋 , I'm Berrak Temirçin
+                    Hi 👋, I'm Berrak
 
 🎓 I graduated from Karamanoğlu Mehmetbey University Computer Engineering department.
 
